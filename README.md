@@ -2,7 +2,7 @@
 
 ### Links
 
-- Solution URL: [(https://github.com/Paulgulti/QR-code-component-Frontend-Mentor-Challenge)]
+- Solution URL: https://github.com/Paulgulti/QR-code-component-Frontend-Mentor-Challenge
 - Live Site URL: (https://paulgulti.github.io/QR-code-component-Frontend-Mentor-Challenge/)
 
 ## My process
