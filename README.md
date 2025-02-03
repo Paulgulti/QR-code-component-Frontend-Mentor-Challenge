@@ -21,9 +21,8 @@ I am taking on challenging projects on the Frontend mentor platform to learn and
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Paulgulti](https://www.frontendmentor.io/profile/Paulgulti)
+- Twitter - [@Paulma00s](https://www.twitter.com/Paulma00s)
 
 
 
